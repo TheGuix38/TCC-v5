@@ -1,0 +1,92 @@
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe.config
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.pdb
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csprojAssemblyReference.cache
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.CadastroAdm.resources
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.frmLogin.resources
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.Properties.Resources.resources
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.GenerateResource.cache
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.CoreCompileInputs.cache
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.exe
+E:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe.config
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.CadastroAdm.resources
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.frmLogin.resources
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.Properties.Resources.resources
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.GenerateResource.cache
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.exe
+C:\Users\manager\Desktop\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.pdb
+H:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v2\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe.config
+H:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v2\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.exe
+H:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v2\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.pdb
+H:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v2\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe
+H:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v2\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.pdb
+H:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v2\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csprojResolveAssemblyReference.cache
+H:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v2\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.CadastroAdm.resources
+H:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v2\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.frmLogin.resources
+H:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v2\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.Properties.Resources.resources
+H:\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v2\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.GenerateResource.Cache
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe.config
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.CadastroAdm.resources
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.frmLogin.resources
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.Properties.Resources.resources
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.GenerateResource.cache
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.exe
+C:\Users\manager\Desktop\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe.config
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csprojAssemblyReference.cache
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.CadastroAdm.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.frmLogin.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.Properties.Resources.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.GenerateResource.cache
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.CoreCompileInputs.cache
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.exe
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe.config
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csprojAssemblyReference.cache
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.frmCadastroAdm.resources
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.frmLogin.resources
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.Properties.Resources.resources
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.GenerateResource.cache
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.CoreCompileInputs.cache
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.exe
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.frmMenuAdm.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe.config
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csprojAssemblyReference.cache
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.frmCadastroAdm.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.frmLogin.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.Properties.Resources.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.frmMenuAdm.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.GenerateResource.cache
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.CoreCompileInputs.cache
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.exe
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe.config
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csprojAssemblyReference.cache
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.frmCadastroAdm.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.frmLogin.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.Properties.Resources.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.frmMenuAdm.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.GenerateResource.cache
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.CoreCompileInputs.cache
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.exe
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.pdb
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.frmCategoriaCad.resources
+C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v5\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.frmCategoriaCon.resources
